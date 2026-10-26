@@ -195,22 +195,6 @@ SNMP Port: 161
 # Bandwidth monitoring starts immediately
 ```
 
-## 📊 Screenshots
-
-### Dashboard - Host Status Cards
-![Dashboard](docs/screenshots/dashboard.png)
-
-### Performance Heatmap View
-![Heatmap](docs/screenshots/heatmap.png)
-
-### Geographic Map Visualization
-![Map](docs/screenshots/geographic-map.png)
-
-### SNMP Bandwidth Monitoring
-![Bandwidth](docs/screenshots/bandwidth.png)
-
-### Alert Management
-![Alerts](docs/screenshots/alerts.png)
 
 ## 📈 Performance Metrics
 
