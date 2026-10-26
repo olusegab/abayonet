@@ -132,7 +132,7 @@ sudo yum install python3 python3-pip iputils
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/olusegab/DevOps-Projects.git
+git clone https://github.com/olusegab/abayonet.git
 cd DevOps-Projects/abayonet
 
 # Install dependencies
@@ -288,10 +288,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Olusega Bayonet**
+**Olusegun Abayomi**
 - GitHub: [@olusegab](https://github.com/olusegab)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Portfolio: [Your Portfolio](https://your-portfolio.com)
+- LinkedIn: https://github.com/olusegab
 
 ## 🙏 Acknowledgments
 
@@ -304,8 +303,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or suggestions:
 - Open an issue on GitHub
-- Email: your.email@example.com
-- Documentation: [Wiki](https://github.com/olusegab/DevOps-Projects/wiki)
+- Email: oabayomi24@gmail.com
 
 ---
 
